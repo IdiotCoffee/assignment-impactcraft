@@ -1,13 +1,52 @@
-These are the scripts I have implemented:
+# Invoice Data Generator & Percentile Analyzer
 
-Data Generation
-    • Generates invoice entries with fields: date, amount, tags
-    • Two modes for generation:
-        - By date range (we can also specify the number of transactions per day if we want to)
-        - By total number of invoices spread randomly across the last 90 days (the number of days can be adjusted)
-Analysis
-    • Takes a percentile value as input and runs in four modes:
-        - Mode 1: Groups invoices by week and calculates the selected percentile of invoice amounts per week.
-        - Mode 2: Calculates the percentile of invoice amounts for every possible tag individually (e.g., cash, upi, etc.).
-        - Mode 3: Filters data for invoices that contain ANY of the given tags, then computes the overall percentile for that subset.
-        - Mode 4: Filters data for invoices that contain ALL of the selected tags (strict match), and calculates the percentile on that subset. This differs from Mode 3 which uses an OR-style match.
+This project includes two Python scripts:
+
+1. **Data Generation** — Creates synthetic invoice data with date, amount, and tag fields.
+2. **Analysis** — Computes percentiles over the generated data in multiple modes.
+
+---
+
+## 📁 Scripts
+
+### 1. `assignment.py` – Data Generation
+
+Generates invoice entries and writes them to a CSV.
+
+#### ✅ Features:
+- Fields: `date`, `amount`, `tags`
+- Two generation modes:
+  - **Mode A (Date Range)**:
+    - Generate invoices between a given start and end date.
+    - Optionally specify number of transactions per day.
+  - **Mode B (Random Spread)**:
+    - Generate a fixed total number of invoices.
+    - Spread randomly across the last *N* days (default: 90 days).
+
+---
+
+### 2. `percentiles.py` – Analysis Tool
+
+Reads invoice data and computes percentile values using multiple modes.
+
+#### 🎯 Input:
+- Invoice CSV file
+- Desired percentile (e.g., 75 for 75th percentile)
+
+#### 🧠 Modes:
+- **Mode 1: Weekly Percentiles**
+  - Groups invoices by week and computes the given percentile per week.
+
+- **Mode 2: Tag-Based Percentiles**
+  - Computes the percentile for each individual tag (e.g., `"cash"`, `"upi"`).
+
+- **Mode 3: OR-Tag Match**
+  - Filters invoices containing **any** of the given tags.
+  - Computes the percentile over this filtered subset.
+
+- **Mode 4: AND-Tag Match (Strict)**
+  - Filters invoices containing **all** specified tags.
+  - Computes the percentile over this subset.
+  - Stricter than Mode 3 (requires exact match).
+
+---
