@@ -1,0 +1,453 @@
+
+[
+    {
+        "date": "2025-05-24",
+        "amount": 688.43,
+        "tags": [
+            "card",
+            "notaxes",
+            "nodiscount"
+        ]
+    },
+    {
+        "date": "2025-05-27",
+        "amount": 871.9,
+        "tags": [
+            "UPI",
+            "taxes",
+            "nodiscount"
+        ]
+    },
+    {
+        "date": "2025-05-31",
+        "amount": 672.89,
+        "tags": [
+            "UPI",
+            "notaxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-06-03",
+        "amount": 139.71,
+        "tags": [
+            "UPI",
+            "notaxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-05-26",
+        "amount": 167.72,
+        "tags": [
+            "cash",
+            "taxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "amount": 174.29,
+        "tags": [
+            "UPI",
+            "notaxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-07-16",
+        "amount": 335.7,
+        "tags": [
+            "UPI",
+            "notaxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-05-26",
+        "amount": 352.95,
+        "tags": [
+            "card",
+            "notaxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-07-30",
+        "amount": 510.39,
+        "tags": [
+            "UPI",
+            "notaxes",
+            "nodiscount"
+        ]
+    },
+    {
+        "date": "2025-06-21",
+        "amount": 576.33,
+        "tags": [
+            "card",
+            "notaxes",
+            "nodiscount"
+        ]
+    },
+    {
+        "date": "2025-07-28",
+        "amount": 648.41,
+        "tags": [
+            "card",
+            "taxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-05-08",
+        "amount": 887.39,
+        "tags": [
+            "cash",
+            "taxes",
+            "nodiscount"
+        ]
+    },
+    {
+        "date": "2025-07-19",
+        "amount": 580.35,
+        "tags": [
+            "cash",
+            "notaxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-05-11",
+        "amount": 600.42,
+        "tags": [
+            "cash",
+            "notaxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-06-29",
+        "amount": 443.98,
+        "tags": [
+            "card",
+            "notaxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-05-18",
+        "amount": 126.0,
+        "tags": [
+            "card",
+            "notaxes",
+            "nodiscount"
+        ]
+    },
+    {
+        "date": "2025-06-04",
+        "amount": 428.3,
+        "tags": [
+            "UPI",
+            "notaxes",
+            "nodiscount"
+        ]
+    },
+    {
+        "date": "2025-05-23",
+        "amount": 474.01,
+        "tags": [
+            "cash",
+            "notaxes",
+            "nodiscount"
+        ]
+    },
+    {
+        "date": "2025-07-01",
+        "amount": 242.96,
+        "tags": [
+            "cash",
+            "notaxes",
+            "nodiscount"
+        ]
+    },
+    {
+        "date": "2025-05-22",
+        "amount": 849.76,
+        "tags": [
+            "UPI",
+            "notaxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-06-19",
+        "amount": 493.45,
+        "tags": [
+            "UPI",
+            "taxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-05-26",
+        "amount": 105.58,
+        "tags": [
+            "card",
+            "taxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-05-06",
+        "amount": 362.99,
+        "tags": [
+            "cash",
+            "taxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-05-23",
+        "amount": 240.77,
+        "tags": [
+            "UPI",
+            "taxes",
+            "nodiscount"
+        ]
+    },
+    {
+        "date": "2025-06-18",
+        "amount": 355.5,
+        "tags": [
+            "cash",
+            "taxes",
+            "nodiscount"
+        ]
+    },
+    {
+        "date": "2025-06-12",
+        "amount": 855.02,
+        "tags": [
+            "cash",
+            "taxes",
+            "nodiscount"
+        ]
+    },
+    {
+        "date": "2025-07-25",
+        "amount": 163.88,
+        "tags": [
+            "UPI",
+            "notaxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-05-10",
+        "amount": 704.46,
+        "tags": [
+            "card",
+            "taxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-05-06",
+        "amount": 483.54,
+        "tags": [
+            "UPI",
+            "taxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-05-17",
+        "amount": 277.4,
+        "tags": [
+            "cash",
+            "taxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-06-12",
+        "amount": 118.41,
+        "tags": [
+            "card",
+            "taxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-06-26",
+        "amount": 431.21,
+        "tags": [
+            "card",
+            "notaxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "amount": 205.82,
+        "tags": [
+            "UPI",
+            "notaxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-07-01",
+        "amount": 302.04,
+        "tags": [
+            "UPI",
+            "notaxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-05-21",
+        "amount": 380.2,
+        "tags": [
+            "cash",
+            "taxes",
+            "nodiscount"
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "amount": 600.8,
+        "tags": [
+            "UPI",
+            "taxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-06-13",
+        "amount": 701.71,
+        "tags": [
+            "cash",
+            "notaxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-07-19",
+        "amount": 324.66,
+        "tags": [
+            "card",
+            "notaxes",
+            "nodiscount"
+        ]
+    },
+    {
+        "date": "2025-07-14",
+        "amount": 383.63,
+        "tags": [
+            "card",
+            "taxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-06-11",
+        "amount": 829.7,
+        "tags": [
+            "card",
+            "taxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-06-13",
+        "amount": 513.96,
+        "tags": [
+            "card",
+            "notaxes",
+            "nodiscount"
+        ]
+    },
+    {
+        "date": "2025-07-05",
+        "amount": 452.93,
+        "tags": [
+            "cash",
+            "notaxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-06-21",
+        "amount": 544.42,
+        "tags": [
+            "UPI",
+            "notaxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-06-04",
+        "amount": 590.46,
+        "tags": [
+            "card",
+            "notaxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-07-20",
+        "amount": 554.29,
+        "tags": [
+            "UPI",
+            "taxes",
+            "nodiscount"
+        ]
+    },
+    {
+        "date": "2025-08-01",
+        "amount": 731.46,
+        "tags": [
+            "UPI",
+            "notaxes",
+            "nodiscount"
+        ]
+    },
+    {
+        "date": "2025-05-18",
+        "amount": 862.08,
+        "tags": [
+            "cash",
+            "taxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-07-29",
+        "amount": 705.55,
+        "tags": [
+            "UPI",
+            "notaxes",
+            "nodiscount"
+        ]
+    },
+    {
+        "date": "2025-06-07",
+        "amount": 922.76,
+        "tags": [
+            "card",
+            "taxes",
+            "discount"
+        ]
+    },
+    {
+        "date": "2025-06-19",
+        "amount": 992.1,
+        "tags": [
+            "UPI",
+            "notaxes",
+            "nodiscount"
+        ]
+    }
+]
